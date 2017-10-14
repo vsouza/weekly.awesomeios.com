@@ -13,8 +13,9 @@ We would love you for the contribution to **Awesome-iOS weekly**, check the ``LI
 
 ## Meta
 
-vinicius souza – [@iamvsouza](https://twitter.com/iamvsouza) – hi(at)vsouza.com
-Lucas Farah – [@lfarah](https://twitter.com/lfarah) – larah@me.com
+vinicius Souza – [@iamvsouza](https://twitter.com/iamvsouza) – hi(at)vsouza.com 
+
+Lucas Farah – [@7farah7 ](https://twitter.com/7farah7 ) – hi(at)lucasfarah.me
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
