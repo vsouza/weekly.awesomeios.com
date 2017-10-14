@@ -1,6 +1,6 @@
 # Awesome-iOS Weekly
 
-> Our weekly digest in open source repository :love:  
+> Our weekly digest in open source repository :heart:  
 
 [![License][license-image]][license-url]
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
