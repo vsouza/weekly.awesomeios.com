@@ -13,7 +13,7 @@ We would love you for the contribution to **Awesome-iOS weekly**, check the ``LI
 
 ## Meta
 
-vinicius Souza – [@iamvsouza](https://twitter.com/iamvsouza) – hi(at)vsouza.com 
+Vinicius Souza – [@iamvsouza](https://twitter.com/iamvsouza) – hi(at)vsouza.com 
 
 Lucas Farah – [@7farah7 ](https://twitter.com/7farah7 ) – hi(at)lucasfarah.me
 
